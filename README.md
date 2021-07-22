@@ -9,7 +9,7 @@
 
  
 
-:computer: I'm Front and Back-End Developer!
+:computer: I'm a {Backend, Frontend and Mobile} Developer!
 
 :house_with_garden: I’m from São Paulo - Brazil.
 
